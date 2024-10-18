@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\s4401106\\source\\repos\\Week4_Task3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1A0CE6E5-C74B-4C50-AE4B-4743AC03D263}|Week4_Task3\\Week4_Task3.vcxproj|C:\\Users\\s4401106\\source\\repos\\Week4_Task3\\Week4_Task3\\Week4_Task3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1A0CE6E5-C74B-4C50-AE4B-4743AC03D263}|Week4_Task3\\Week4_Task3.vcxproj|solutionrelative:Week4_Task3\\Week4_Task3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Week4_Task3.cpp",
+              "DocumentMoniker": "C:\\Users\\s4401106\\source\\repos\\Week4_Task3\\Week4_Task3\\Week4_Task3.cpp",
+              "RelativeDocumentMoniker": "Week4_Task3\\Week4_Task3.cpp",
+              "ToolTip": "C:\\Users\\s4401106\\source\\repos\\Week4_Task3\\Week4_Task3\\Week4_Task3.cpp",
+              "RelativeToolTip": "Week4_Task3\\Week4_Task3.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-18T14:07:14.514Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
