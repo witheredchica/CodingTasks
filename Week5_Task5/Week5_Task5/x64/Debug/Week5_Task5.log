@@ -1,0 +1,5 @@
+﻿  Week5_Task5.cpp
+C:\Users\s4401106\source\repos\Week5_Task5\Week5_Task5\Week5_Task5.cpp(6,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\s4401106\source\repos\Week5_Task5\Week5_Task5\Week5_Task5.cpp(29,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\s4401106\source\repos\Week5_Task5\Week5_Task5\Week5_Task5.cpp(31,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Week5_Task5.vcxproj -> C:\Users\s4401106\source\repos\Week5_Task5\x64\Debug\Week5_Task5.exe
